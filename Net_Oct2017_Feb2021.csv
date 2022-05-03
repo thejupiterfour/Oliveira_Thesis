@@ -1,0 +1,985 @@
+Original Species ID;Current Species ID;Genus;Phylum/Class;Date;Month (1-12);Year;Station ID;Tow Length (m);Net Radius (cm);Tow Vol Filtered (L);Tow Sample Vol (mL);Actual Count;Density (cells/mL);Biovolume (cubic micrometers/mL);Cell Volume (cubic micrometers/cell)
+Chaetoceros didymus;Chaetoceros didymus;Chaetoceros;BACILLARIOPHYTA;18.10.17;10;2017;18;20;12,5;981,75;285;5;19,71;14486,60;734,83
+Pleurosigma sp.;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;90843,67;23040,00
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;18.10.17;10;2017;18;20;12,5;981,75;285;3;11,83;76047,35;6429,11
+Thalassiosira sp.;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;680654,04;172629,19
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;18.10.17;10;2017;18;20;12,5;981,75;285;3;11,83;3827,26;323,56
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;18;70,97;2805309,46;39527,20
+Ceratium divaricatum ;Ceratium divaricatum;Ceratium;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;3;11,83;847758,74;71670,24
+Gonyaulax cf. spinifera;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;2;7,89;240798,34;30535,94
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;10;39,43;1402776,14;35577,56
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;2;7,89;107658,74;13652,34
+cf. Protoperidinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;226282,61;57390,37
+Unidentified Dinoflagellate #7;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;35868,21;9096,99
+Unidentified Dinoflagellate #5;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;44355,23;11249,49
+Unidentified Dinoflagellate #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;2;7,89;426628,10;54101,25
+Unidentified Dinoflagellate #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;158336,21;40157,63
+Unidentified Dinoflagellate #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;34636,21;8784,52
+Unidentified Dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;5;19,71;298454,28;15138,95
+Unidentified Dinoflagellate #6;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.10.17;10;2017;18;20;12,5;981,75;285;1;3,94;33334,15;8454,29
+Cerataulina cf. bicornis;Cerataulina sp.;Cerataulina;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;28658,08;7424,64
+Chaetoceros didymus;Chaetoceros didymus;Chaetoceros;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;14132,00;1830,64
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;6397,43;1657,42
+Chaetoceros sp. #2;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;76133,37;9862,19
+Chaetoceros sp. #3;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;22967,73;2975,20
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;228018,68;59074,34
+Lithodesmium undulatum;Lithodesmium undulatum;Lithodesmium;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;1789757,18;231842,25
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;3;11,58;11801,91;1019,20
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;28925,91;7494,03
+Thalassiosira eccentrica;Thalassiosira eccentrica;Thalassiosira;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;560831,99;145298,54
+Thalassiosira cf. eccentrica;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;801339,18;103804,18
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;27.10.17;10;2017;18;20;12,5;981,75;279;8;30,88;19507,42;631,74
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;5;19,30;3478379,02;180233,44
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;5;19,30;317851,16;16469,57
+Dinophysis sp.;Dinophysis sp.;Dinophysis;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;25479,42;6601,13
+Gonyaulax cf. spinifera;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;8;30,88;564707,49;18287,82
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;11359652,83;2943022,11
+Phalacroma sp.;Phalacroma sp.;Phalacroma;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;145513,16;37699,08
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;41546,43;10763,72
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;6317,21;1636,64
+Protoperidinium sp.;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;3;11,58;1791951,69;154751,02
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;195844,91;25369,43
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;392206,11;50805,75
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;2;7,72;196808,73;25494,28
+cf. Cochlodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;505400,13;130937,43
+Unidentified Dinoflagellate #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;35113,09;9096,99
+Unidentified Dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;43421,44;11249,49
+cf. Heterocapsa triquetra;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;27.10.17;10;2017;18;20;12,5;981,75;279;1;3,86;10162,47;2632,86
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;630111,63;163247,28
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;142832,96;18502,35
+Pleurosigma sp. #2;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;24085,53;6240,00
+Pseudo-nitzschia sp. #3;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;7395,86;958,05
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;198;764,25;1258264,90;1646,40
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;5;19,30;1480,50;76,71
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;4;15,44;670106,68;43402,27
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;10;38,60;48228,95;1249,50
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;14.11.17;11;2017;18;20;12,5;981,75;279;45;173,69;56997,59;328,15
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;639258,73;82808,54
+Archaeperidinium minutum;Archaeperidinium minutum;Archaeperidinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;40007,51;5182,51
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;3;11,58;204218,51;17636,09
+Lepidodinium chlorophorum;Lepidodinium chlorophorum;Lepidodinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;5122,06;1327,01
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;18985286,48;4918646,62
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;36984,60;9581,85
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;25;96,50;1859334,88;19268,42
+Prorocentrum triestinium;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;15299,50;1981,87
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;17984,01;4659,24
+Protoperidinium sp. #5;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;167389,65;43366,77
+Protoperidinium sp. #4;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;1768579,94;229098,98
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;417956,88;108282,92
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;444898,35;115262,83
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;123916,95;32104,00
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;232488,54;30116,19
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;4;15,44;267441,04;17321,94
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;5;19,30;765143,87;39646,20
+Unidentified dinoflagellate #9;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;25896,98;6709,31
+Unidentified dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;81972,42;10618,57
+Unidentified dinoflagellate #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;55778,11;14450,81
+Unidentified dinoflagellate #5;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;39725,09;10291,85
+Unidentified dinoflagellate #6;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;22112,03;5728,71
+Unidentified dinoflagellate #8;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;52386,19;13572,05
+Unidentified dinoflagellate #10;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;81972,42;10618,57
+Unidentified dinoflagellate #11;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;21519,78;5575,28
+Unidentified dinoflagellate #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;7;27,02;251252,73;9299,11
+Unidentified dinoflagellate #7;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;40129,25;10396,56
+cf. Alexandrium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;58205,27;7539,82
+cf. Coolia sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;6101,85;1580,85
+cf. Cochlodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;206578,20;26759,81
+cf. Gonyaulax sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;11;42,46;420791,74;9910,67
+cf. Gymnodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;2;7,72;78176,84;10126,90
+cf. Scrippsiella sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;56824,75;14721,97
+cf. Proterythropsis sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;540136,78;139936,89
+cf. Nematodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;17;65,62;996635,83;15188,54
+Unidentified dinoflagellate #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.11.17;11;2017;18;20;12,5;981,75;279;1;3,86;98607,72;25546,97
+Aulacoseira sp. ;Aulacoseira sp.;Aulacoseira;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;9;58,27;198487,80;3406,26
+Chaetoceros decipiens;Chaetoceros decipiens;Chaetoceros;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;5;32,37;39574,37;1222,45
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;8;51,80;39965,11;771,57
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;2274935,44;351362,89
+Lithodesmium undulatum;Lithodesmium undulatum;Lithodesmium;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;4;25,90;1368871,70;52855,42
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;4;25,90;986821,66;38103,55
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;5;32,37;26294,98;812,25
+Rhizosolenia cf. setigera;Rhizosolenia sp.;Rhizosolenia;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;12224,16;1888,02
+cf. Melosira moniliformis;Unknown Diatom;Unknown;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;5;32,37;2906915,78;89794,40
+cf. Thalassiosira sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;1869576,22;288755,32
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;06.12.17;12;2017;18;10;12,5;490,88;234;10;64,75;30342,58;468,64
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;3;19,42;1649411,53;84916,99
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;13979175,12;2159078,15
+Oblea rotunda;Oblea rotunda;Oblea;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;37091,16;5728,71
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;20;129,49;1219714,29;9419,22
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;1972335,66;304626,47
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;595842,51;92027,64
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;1525270,03;235577,36
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;2;12,95;220438,63;17023,33
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;2;12,95;81984,67;6331,25
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;10;64,75;4573934,50;70644,24
+cf. Gonyaulax sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;06.12.17;12;2017;18;10;12,5;490,88;234;1;6,47;112071,60;17309,41
+Chaetoceros didymus;Chaetoceros didymus;Chaetoceros;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;3945,73;1159,38
+Chaetoceros cf. diadema;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;4;6,81;40508,17;5951,28
+Eucampia zodiacus;Eucampia zodiacus;Eucampia;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;5;8,51;98318,37;11555,59
+Guinardia striata;Guinardia striata;Guinardia;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;46910,39;13783,73
+Nitzschia sigma;Nitzschia sigma;Nitzschia;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;28105,96;8258,40
+Pleurosigma sp.;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;40613,02;23866,72
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;11;18,72;16153,62;862,99
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;4;6,81;14260,75;2095,12
+Pseudo-nitzschia sp. #3;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;3;5,10;377,77;74,00
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;4;6,81;112571,62;16538,51
+Thalassionema sp.;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;5;8,51;17435,26;2049,21
+Thalassiosira sp.;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;4;6,81;1780189,28;261537,37
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;10.01.18;1;2018;18;10;12,5;490,88;246;6;10,21;4441,17;434,98
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;10;17,02;1772894,60;104186,27
+Alexandrium sp.;Alexandrium sp.;Alexandrium;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;3;5,10;66011,34;12930,78
+Ceratium divaricatum ;Ceratium divaricatum;Ceratium;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;3;5,10;522310,57;102314,01
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;69284,97;20358,07
+Gonyaulax sp.;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;94897,28;27883,76
+Noctiluca sp.;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;2851382,09;1675648,71
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;14;23,82;316794,57;13297,72
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;3;5,10;10245,98;2007,06
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;153962,32;90477,79
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;259945,06;152759,81
+Torodinium sp.;Torodinium sp.;Torodinium;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;2427,43;1426,51
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;72251,39;21229,69
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;3;5,10;155639,60;30487,82
+Tripos muelleri;Tripos muelleri;Tripos;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;242734,34;142645,73
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;15;25,52;563465,19;22075,14
+Unidentified dinoflagellate #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;99770,38;29315,63
+Unidentified dinoflagellate #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;3;5,10;40970,01;8025,51
+Unidentified dinoflagellate #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;32900,57;19334,41
+Unidentified dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;1;1,70;33993,24;19976,53
+cf. Archaeperidinium minutum;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;98867,76;29050,41
+cf. Gymnodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;10.01.18;1;2018;18;10;12,5;490,88;246;2;3,40;56860,56;16707,39
+Chaetoceros sp.;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;6444,18;4085,97
+Coscinodiscus sp.;Coscinodiscus sp.;Coscinodiscus;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;2346569,28;743928,51
+Pleurosigma sp.;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;52090,91;16514,28
+Pseudo-nitzschia sp. #3;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;163,71;103,80
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;7909,87;2507,65
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;3;4,73;1437,97;303,92
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;6;9,46;122150,15;12908,35
+Thalassionema sp.;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;2365,72;1500,00
+cf. Thalassiosira sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;547524,74;173580,75
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;128;201,87;8755049,99;43368,71
+Alexandrium tamarense;Alexandrium tamarense;Alexandrium;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;7;11,04;199678,38;18086,76
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;636419,43;201762,87
+Cyst Dissodinium pseudolunula secondary;Cyst Dissodinium pseudolunula secondary;Cyst;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;3;4,73;7117,50;1504,30
+cf. Dissodinium pseudolunula primary cyst;Cyst Unknown Dinoflagellate;Cyst;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;24734,11;7841,41
+Unidentified dinoflagellate cyst #1;Cyst Unknown Dinoflagellate;Cyst;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;56084,53;35560,75
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;3;4,73;92975,87;19650,65
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;7361,87;4667,84
+Gonyaulax sp.;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;3;4,73;125486,46;26521,83
+Gyrodinium sp.;Gyrodinium spp.;Gyrodinium;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;118856,18;75361,51
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;31991,19;20284,21
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;3;4,73;99575,60;21045,51
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;3628,53;2300,69
+Protoperidinium cf. pellucidum;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;41407,17;26254,48
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;1;1,58;390085,43;247336,12
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;22;34,70;2935838,51;84613,04
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;9;14,19;675266,92;47573,03
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;49224,98;15605,70
+cf. Alexandrium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;10;15,77;440898,37;27955,44
+cf. Gyrodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;2;3,15;7184,41;2277,66
+Unidentified dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.02.18;2;2018;18;10;12,5;490,88;228;4;6,31;176359,35;27955,44
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;2;12,56;32543,00;2590,62
+Entomoneis sp.;Entomoneis sp.;Entomoneis;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;2;12,56;1600573,00;127415,51
+Odontella sp.;Odontella sp.;Odontella;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;2;12,56;2013403,79;160279,40
+Pleurosigma sp.;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;1;6,28;294851,46;46944,00
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;18;113,06;367631,04;3251,74
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;7;43,97;56185,58;1277,92
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;11;69,09;490047,79;7092,88
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;10;62,81;55465,37;883,08
+cf. Thalassiosira sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;23.02.18;2;2018;18;10;12,5;490,88;227;2;12,56;4179381,08;332704,59
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;30;188,43;11209790,04;59491,24
+Alexandrium cf. tamarense;Alexandrium sp.;Alexandrium;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;6;37,69;639672,73;16973,97
+Dinophysis sp.;Dinophysis sp.;Dinophysis;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;1;6,28;48623,77;7741,51
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;1;6,28;138883,90;22112,04
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;1;6,28;1448359,07;230596,69
+Protoperidinium cf. pellucidum;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;2;12,56;322290,51;25656,32
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;1;6,28;163634,46;26052,63
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;23.02.18;2;2018;18;10;12,5;490,88;227;5;31,40;898864,44;28622,07
+Chaetoceros diadema;Chaetoceros diadema;Chaetoceros;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;2;1,36;1410,34;1037,88
+Chaetoceros sp. #3;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;6;4,08;9735,15;2388,06
+Chaetoceros sp. #2;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;3;2,04;1347,46;661,07
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;3;2,04;13154,33;6453,57
+Nitzschia cf. sigma;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;2;1,36;5283,22;3887,96
+Odontella cf. aurita;Odontella sp.;Odontella;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;2;1,36;773695,66;569368,03
+Pleurosigma sp.;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;3;2,04;59069,97;28980,00
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;102,32;150,59
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;15;10,19;34043,30;3340,36
+Pseudo-nitzschia sp. #3;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;1343,13;1976,84
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;8;5,44;79305,63;14590,39
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;50;33,97;17076,71;502,67
+Thalassionema sp.;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;1171,05;1723,57
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;5;3,40;1072,38;315,67
+cf. Thalassiosira sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;09.03.18;3;2018;18;10;12,5;490,88;221;2;1,36;315906,32;232477,66
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;11;7,47;611521,69;81822,38
+Alexandrium sp. #1;Alexandrium sp.;Alexandrium;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;20;13,59;130172,72;9579,50
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;3;2,04;40041,13;19644,36
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;2;1,36;20758,84;15276,57
+Peridinium cf. quadridentatum;Peridinium sp.;Peridinium;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;4905,94;7220,63
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;9366,62;13785,93
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;3;2,04;13712,31;6727,32
+Protoperidinium cf. steinii;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;2;1,36;11475,08;8444,59
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;95888,16;141129,52
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;169942,11;250123,17
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;75333,04;110876,22
+Unidentified dinoflagellate #6;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;16055,66;23630,95
+Unidentified dinoflagellate #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;3892,28;5728,71
+Unidentified dinoflagellate #7;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;3;2,04;18758,00;9202,76
+Unidentified dinoflagellate #5;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;4587,04;6751,27
+Unidentified dinoflagellate #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;4541,00;6683,50
+Unidentified dinoflagellate #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;3;2,04;29455,11;14450,81
+cf. Alexandrium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;2;1,36;15396,53;11330,42
+Unidentified dinoflagellate #8;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;1;0,68;59258,65;87217,71
+Unidentified dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.03.18;3;2018;18;10;12,5;490,88;221;76;51,64;1439832,55;27883,76
+Asterionellopsis glacialis;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;5;55,25;58702,06;1062,53
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;1;11,05;2565395,32;232172,19
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;8;88,40;77612,84;878,01
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;6;66,30;167932,20;2533,02
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;2;22,10;285591,80;12923,25
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;372;4110,43;7849156,05;1909,57
+Thalassionema sp.;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;3;33,15;29367,02;885,92
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;2;22,10;8578,64;388,19
+cf. Thalassiosira sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;1;11,05;3334139,03;301744,67
+cf. Pleurosigma sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;15.03.18;3;2018;18;10;12,5;490,88;202;2;22,10;567663,36;25687,20
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;31;173,26;21596099,87;124642,15
+Alexandrium sp. #1;Alexandrium sp.;Alexandrium;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;16;89,43;2596123,84;29030,65
+Protoperidinium sp. cyst #1;Cyst Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;809557,27;144843,46
+Unidentified dinoflagellate cyst #1;Cyst Unknown Dinoflagellate;Cyst;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;477891,59;85502,87
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;2;11,18;239015,75;21381,98
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;66946,56;11977,87
+Heterocapsa triquetra;Heterocapsa triquetra;Heterocapsa;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;2;11,18;48076,37;4300,84
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;3;16,77;18648055,58;1112150,61
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;3;16,77;152104,28;9071,34
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;1640276,76;293473,19
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;1730121,28;309547,89
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;317041,08;56724,00
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;3;16,77;251115,22;14976,25
+Unidentified dinoflagellate #6;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;454219,24;81267,49
+Unidentified dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;6;33,54;1086980,68;32413,20
+Unidentified dinoflagellate #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;9;50,30;823229,87;16365,52
+Unidentified dinoflagellate #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;8;44,71;2804934,71;62731,27
+Unidentified dinoflagellate #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;2;11,18;647292,62;57905,79
+Unidentified dinoflagellate #5;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;64242,29;11494,03
+Unidentified dinoflagellate #7;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;45726,40;8181,22
+cf. Alexandrium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;4;22,36;199581,89;8927,14
+cf. Gonyaulax sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;72272,58;12930,78
+cf. Karlodinium veneficum;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.03.18;3;2018;18;10;12,5;490,88;202;1;5,59;5011,96;896,72
+Asterionellopsis glacialis;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;5;29,74;44374,38;1491,85
+Chaetoceros diadema;Chaetoceros diadema;Chaetoceros;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;18;107,08;297125,87;2774,80
+Chaetoceros cf. borealis;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;4;23,80;16357,48;687,42
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;3;17,85;8684,55;486,62
+Coscinodiscus sp.;Coscinodiscus sp.;Coscinodiscus;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;2;11,90;2597766,38;218340,51
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;2;11,90;1792795,22;150683,22
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;4;23,80;48115,08;2022,02
+Thalassionema sp.;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;1;5,95;9805,41;1648,28
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;1;5,95;3566,95;599,60
+cf. Thalassiosira sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;3;17,85;5186188,28;290597,08
+cf. Navicula sp.;Unknown Diatom;Unknown;BACILLARIOPHYTA;26.03.18;3;2018;18;10;12,5;490,88;215;1;5,95;269972,22;45381,96
+Unidentified dinoflagellate cyst #1;Cyst Unknown Dinoflagellate;Cyst;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;2;11,90;1785181,32;150043,28
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;1;5,95;468666,66;78782,23
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;1;5,95;27919873,84;4693292,98
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;15;89,23;1513848,36;16965,06
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;2;11,90;2526492,59;212349,99
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;2;11,90;491519,84;41311,91
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;3;17,85;1482475,78;83067,39
+Unidentified dinoflagellate #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;2;11,90;618311,05;51968,63
+Unidentified dinoflagellate #5;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;2;11,90;93712,58;7876,48
+Unidentified dinoflagellate #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;1;5,95;62326,46;10476,99
+Unidentified dinoflagellate #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;1;5,95;86020,64;14459,95
+Unidentified dinoflagellate #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;26.03.18;3;2018;18;10;12,5;490,88;215;5;29,74;1135982,68;38191,43
+Chaetoceros sp. #2;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;1981,54;1383,87
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;8;11,46;19951,26;1741,70
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;8;11,46;1558955,46;136093,08
+Guinardia sp. #1;Guinardia sp.;Guinardia;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;51429,77;35917,56
+Navicula sp. #1;Navicula spp.;Navicula;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;12820,41;8953,53
+Nitzschia incerta;Nitzschia incerta;Nitzschia;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;980,12;684,50
+Nitzschia cf. longissima;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;59637,95;41650,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;20;28,64;96222,57;3360,00
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;2;2,86;61578,47;21502,61
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;12;17,18;38087,43;2216,63
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;9;12,89;11818,62;917,10
+cf. Gyrosigma sp. #1;Unknown Diatom;Unknown;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;3322,89;2320,64
+cf. Thalassiosira sp. #1;Unknown Diatom;Unknown;BACILLARIOPHYTA;09.04.18;4;2018;18;10;12,5;490,88;207;7;10,02;1929787,34;192532,36
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;3;4,30;103157,10;24014,31
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;3010772,99;2102666,19
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;3;4,30;59502,46;13851,79
+Polykrikos sp. #1;Polykrikos sp.;Polykrikos;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;223446,32;156050,63
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;26;37,23;600433,96;16128,14
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;2;2,86;90211,84;31501,11
+Protoperidinium sp. #4;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;337482,78;235691,51
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;3;4,30;148414,96;34550,05
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;2;2,86;444128,53;155085,43
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;5;7,16;139918,70;19543,31
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;4;5,73;416710,71;72755,70
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;7917,17;5529,20
+Unidentified dinoflagellate cyst #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;2;2,86;113918,51;39779,25
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;3;4,30;181885,30;42341,74
+cf. Nematodinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;26827,27;18735,65
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;3;4,30;74817,24;17416,97
+cf. Dinophysis sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;42171,96;29452,09
+cf. Alexandrium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.04.18;4;2018;18;10;12,5;490,88;207;1;1,43;16107,95;11249,49
+Asterionellopsis glacialis;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;3;9,27;17047,32;1838,63
+Chaetoceros sp. #2;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;3;9,27;8154,99;879,55
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;9;27,82;443428,26;15941,89
+Dactyliosolen sp. #1;Dactyliosolen sp.;Dactyliosolen;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;29;89,63;1407857,46;15707,95
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;20;61,81;5221942,48;84481,36
+Eucampia zodiacus;Eucampia zodiacus;Eucampia;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;8;24,72;260812,88;10548,67
+Guinardia sp. #1;Guinardia sp.;Guinardia;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;30;92,72;1922453,63;20734,49
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;2;6,18;86879,87;14055,56
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;73;225,61;410362,90;1818,88
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;28;86,54;599798,54;6931,16
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;45;139,08;137630,20;989,60
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;6;18,54;67456,91;3637,76
+Thalassiosira sp. #1;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;18.04.18;4;2018;18;10;12,5;490,88;226;6;18,54;762736,39;41132,21
+Cochlodinium sp. #1;Cochlodinium sp.;Cochlodinium;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;6;9,38;683651,10;72884,89
+Pyrocystis lunula cyst;Cyst Pyrocystis lunula;Cyst;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;5;7,82;16575,59;2120,57
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;1;1,56;26651,92;17048,36
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;6;9,38;270734,67;28863,36
+Gyrodinium sp. #1;Gyrodinium spp.;Gyrodinium;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;1;1,56;14733,86;9424,77
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;2;3,13;9654934,65;3087973,53
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;16;25,01;302378,09;12088,84
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;5;7,82;1965333,19;251431,92
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;7;10,94;2925653,44;267349,31
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;1;1,56;733746,22;469353,55
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;2;3,13;57291,80;18323,85
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;5;7,82;402829,21;51535,34
+Unidentified dinoflagellate cyst #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;1;1,56;59413,78;38005,06
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;4;6,25;26193,53;4188,79
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;8;12,51;339206,20;27122,39
+cf. Phalacroma sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;1;1,56;27817,53;17793,97
+cf. Peridinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;1;1,56;5182,74;3315,23
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.18;4;2018;18;10;12,5;490,88;226;5;7,82;89843,80;11494,03
+Asterionellopsis glacialis;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;4;12,29;31066,08;2528,75
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;6;18,43;1355454,74;73555,21
+Gyrosigma sp. #1;Gyrosigma sp.;Gyrosigma;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;2;6,14;21527,51;3504,64
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;7;21,50;660610,65;30727,50
+Pleurosigma sp. #2;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;38131,56;12415,50
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;18;55,28;136039,68;2460,78
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;27;82,92;93641,92;1129,24
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;25;76,78;408261,57;5317,14
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;108;331,70;247851,85;747,22
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;7;21,50;35318,56;1642,80
+Thalassiosira sp. #1;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;4;12,29;331761,21;27005,07
+cf. Cylindrotheca closterium;Unknown Diatom;Unknown;BACILLARIOPHYTA;07.05.18;5;2018;18;20;12,5;981,75;222;9;27,64;19411,57;702,26
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;15;46,07;607869,51;13194,68
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;31102,61;10126,90
+Diplopsalis sp. #1;Diplopsalis sp.;Diplopsalis;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;7;21,50;142943,89;6648,86
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;35;107,50;1930745,53;17961,26
+Gonyaulax spinifera;Gonyaulax spinifera;Gonyaulax;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;16;49,14;950104,21;19334,41
+Gonyaulax verior;Gonyaulax verior;Gonyaulax;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;71329,15;23224,52
+Lebouridinium glaucum;Lebouridinium glaucum;Lebouridinium;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;4264,74;1388,58
+Oblea rotunda;Oblea rotunda;Oblea;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;11;33,78;150176,42;4445,17
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;4;12,29;88060,67;7168,06
+Phalacroma cf. rotundatum;Phalacroma sp.;Phalacroma;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;32177,85;10476,99
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;17;52,21;775033,62;14844,01
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;5;15,36;101182,94;6588,96
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;15;46,07;4764847,02;103427,83
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;2;6,14;60442,17;9839,88
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;432121,28;140697,17
+Protoperidinium cf. steinii;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;7;21,50;229185,72;10660,29
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;3;9,21;384722,19;41754,73
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;3;9,21;214472,28;23277,14
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;25;76,78;1619899,88;21097,35
+Unidentified dinoflagellate sp. #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;8;24,57;402105,68;16365,52
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;29;89,07;644689,03;7238,22
+cf. Prorocentrum cordatum;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;5961,95;1941,19
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;36;110,57;704376,03;6370,62
+cf. Phalacroma sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;46154,99;15027,90
+cf. Cochlodinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;07.05.18;5;2018;18;20;12,5;981,75;222;1;3,07;96691,38;31482,37
+Asterionellopsis glacialis;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;8;92,77;243689,96;2626,75
+Chaetoceros didymus;Chaetoceros didymus;Chaetoceros;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;9;104,37;148890,86;1426,58
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;3;34,79;15815275,34;454597,36
+Nitzschia cf. acicularis;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;4;46,39;18432,94;397,38
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;3;34,79;901225,44;25905,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;4;46,39;20638,37;444,93
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;19;220,33;617908,93;2804,42
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;6;69,58;349819,75;5027,64
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;179;2075,78;1833075,64;883,08
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;17.05.18;5;2018;18;10;12,5;490,88;212;1;11,60;16193,18;1396,38
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;1;5,87;50009,50;8525,49
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;2;11,73;2577366,72;219691,39
+Protoperidinium cf. bipes;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;1;5,87;26074,86;4445,17
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;11;64,52;505964,40;7841,41
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;1;5,87;7163443,06;1221205,15
+cf. Phalacroma sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;1;5,87;55732,38;9501,11
+cf. Peridinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;1;5,87;38650,06;6588,96
+cf. Nematodinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;1;5,87;56006,59;9547,86
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.05.18;5;2018;18;10;12,5;490,88;212;1;5,87;32433,62;5529,20
+Asterionellopsis glacialis;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;2;25,16;90513,42;3597,18
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;1;12,58;20337,43;1616,50
+Chaetoceros cf. didymus;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;3;37,74;50926,27;1349,27
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;5;62,91;21008479,39;333967,38
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;2;25,16;252566,92;10037,51
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;4;50,32;56225,09;1117,25
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;173;2176,54;828351,98;380,58
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;4;50,32;780144,29;15502,24
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;59;742,29;916287,46;1234,41
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;2;25,16;43403,48;1724,94
+cf. Nitzschia sp. #1;Unknown Diatom;Unknown;BACILLARIOPHYTA;06.06.18;6;2018;18;10;12,5;490,88;230;14;176,14;102317,51;580,90
+Dinophysis cf. acuminata;Dinophysis sp.;Dinophysis;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;4;25,46;239914,18;9424,77
+Diplopsalis sp. #1;Diplopsalis sp.;Diplopsalis;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;1;6,36;189994,87;29854,97
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;9;57,28;600073,34;10476,99
+Gyrodinium sp. #1;Gyrodinium spp.;Gyrodinium;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;2;12,73;62185,12;4885,75
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;1;6,36;7566762,66;1189008,47
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;2;12,73;86562,85;6801,06
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;8;50,91;634762,00;12467,97
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;4;25,46;26798,73;1052,76
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;2;12,73;59074,03;4641,32
+Protoperidinium cf. steinii;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;2;12,73;79154,64;6219,01
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;2;12,73;3203629,60;251702,27
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;5;31,82;2382216,55;74866,25
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;1;6,36;97218,98;15276,57
+Unidentified dinoflagellate sp. #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;5;31,82;879403,82;27637,15
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;5;31,82;1623629,40;51026,03
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;5;31,82;153924,14;4837,40
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;15;95,46;751879,99;7876,48
+cf. Alexandrium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;1;6,36;76226,28;11977,87
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;06.06.18;6;2018;18;10;12,5;490,88;230;7;44,55;501136,28;11249,49
+Chaetoceros sp. #2;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;20758,86;3276,20
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;2;12,67;6106,88;481,90
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;1180245,63;186268,58
+Nitzschia cf. sigma;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;14835,46;2341,36
+Nitzschia sp. #1;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;12;76,04;29577,65;389,00
+Pleurosigma sp. #2;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;193894,86;30600,85
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;2;12,67;316439,79;24970,56
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;150;950,44;95043,86;100,00
+Rhizosolenia cf. setigera;Rhizosolenia sp.;Rhizosolenia;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;349048,66;55087,51
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;39;247,11;156111,82;631,74
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;11.06.18;6;2018;18;10;12,5;490,88;229;2;12,67;17036,40;1344,36
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;4;25,35;438486,67;17300,70
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;2;12,67;13436497,85;1060286,63
+Protoperidinium cf. bipes;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;2;12,67;37750,63;2978,94
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;167305,72;26404,50
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;3;19,01;149722,19;7876,48
+cf. Alexandrium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;7;44,35;433085,28;9764,33
+cf. Alexandrium sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;13693,85;2161,19
+cf. Peridinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;4;25,35;109459,02;4318,76
+cf. Protoperidinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;1;6,34;395428,38;62407,25
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;11.06.18;6;2018;18;10;12,5;490,88;229;3;19,01;347629,07;18287,82
+Chaetoceros sp #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;12.07.18;7;2018;18;10;12,5;490,88;232;15;96,29;120622,07;1252,71
+Coscinodiscus sp. #1;Coscinodiscus sp.;Coscinodiscus;BACILLARIOPHYTA;12.07.18;7;2018;18;10;12,5;490,88;232;1;6,42;1190977,18;185531,70
+Guinardia sp. #1;Guinardia sp.;Guinardia;BACILLARIOPHYTA;12.07.18;7;2018;18;10;12,5;490,88;232;3;19,26;479347,56;24891,09
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;12.07.18;7;2018;18;10;12,5;490,88;232;1;6,42;120395,24;18755,30
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;12.07.18;7;2018;18;10;12,5;490,88;232;11;70,61;221949,07;3143,22
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;12.07.18;7;2018;18;10;12,5;490,88;232;4;25,68;3425,32;133,40
+Rhizosolenia cf. setigera;Rhizosolenia sp.;Rhizosolenia;BACILLARIOPHYTA;12.07.18;7;2018;18;10;12,5;490,88;232;2;12,84;469774,81;36591,01
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;1;6,42;95861,73;14933,44
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;2;12,84;107641,77;8384,28
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;2;12,84;54867,22;4273,64
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;5;32,10;451927,37;14080,35
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;3;19,26;338404,27;17572,33
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;10;64,19;3939562,64;61370,93
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;3;19,26;561827,09;29174,01
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;12.07.18;7;2018;18;10;12,5;490,88;232;5;32,10;333691,24;10396,56
+Coscinodiscus sp. #1;Coscinodiscus sp.;Coscinodiscus;BACILLARIOPHYTA;20.07.18;7;2018;18;10;12,5;490,88;220;1;6,09;8373937,66;1375655,59
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;20.07.18;7;2018;18;10;12,5;490,88;220;6;36,52;2133530,63;58415,44
+Guinardia sp. #1;Guinardia sp.;Guinardia;BACILLARIOPHYTA;20.07.18;7;2018;18;10;12,5;490,88;220;8;48,70;971809,03;19955,88
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;20.07.18;7;2018;18;10;12,5;490,88;220;2;12,17;103976,80;8540,56
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;20.07.18;7;2018;18;10;12,5;490,88;220;2;12,17;1577,81;129,60
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;20.07.18;7;2018;18;10;12,5;490,88;220;4;24,35;11666,79;479,15
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;20.07.18;7;2018;18;10;12,5;490,88;220;1;6,09;240579,65;39522,00
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;3;18,26;1257764,03;68874,41
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;13;79,13;1521193,45;19223,00
+Heterocapsa triquetra;Heterocapsa triquetra;Heterocapsa;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;1;6,09;38565,91;6335,54
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;3;18,26;66355,62;3633,59
+Phalacroma rotundatum;Phalacroma rotundatum;Phalacroma;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;1;6,09;212398,08;34892,38
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;71;432,19;6408038,00;14826,78
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;8;48,70;114060,76;2342,21
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;10;60,87;12289753,65;201893,89
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;4;24,35;14457895,96;593779,36
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;7;42,61;1124340,15;26386,37
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;39;237,40;14060755,47;59227,59
+cf. Oblea sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;1;6,09;160730,39;26404,50
+cf. Protoperidinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;13;79,13;2978971,47;37644,63
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;5;30,44;730592,68;24004,09
+cf. Protoperidinium sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;24;146,09;2527521,42;17300,70
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;4;24,35;743517,68;30535,94
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;9;54,79;305442,04;5575,28
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.07.18;7;2018;18;10;12,5;490,88;220;3;18,26;1984741,05;108683,24
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;826118,06;129250,67
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;03.08.18;8;2018;18;10;12,5;490,88;231;6;38,35;12652,64;329,93
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;407996,50;63833,28
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;8;51,13;6106821,38;119430,69
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;151354,10;23680,17
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;2;12,78;58231,56;4555,32
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;122865,62;19223,00
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;32602,20;5100,79
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;96;613,59;9097608,88;14826,78
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;10188,64;1594,07
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;2;12,78;903941,01;70713,25
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;7;44,74;753749,19;16846,88
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;17;108,66;5873086,97;54051,56
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;122865,62;19223,00
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;21189,60;3315,23
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;30918,67;4837,40
+cf. Protoperidinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;03.08.18;8;2018;18;10;12,5;490,88;231;2;12,78;322540,06;25231,58
+Melosira nummuloides;Melosira nummuloides;Melosira;BACILLARIOPHYTA;14.08.18;8;2018;18;10;12,5;490,88;231;6;38,35;636443,94;16595,85
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;14.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;97126,05;15195,90
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;14.08.18;8;2018;18;10;12,5;490,88;231;44;281,23;33353,90;118,60
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;14.08.18;8;2018;18;10;12,5;490,88;231;38;242,88;99885,88;411,26
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;14.08.18;8;2018;18;10;12,5;490,88;231;3;19,17;1087971,71;56739,70
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;14.08.18;8;2018;18;10;12,5;490,88;231;10;63,92;20342,02;318,26
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;148330,29;23207,08
+Oblea rotunda;Oblea rotunda;Oblea;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;1,52;0,24
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;3;19,17;374736,77;19543,20
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;56;357,93;5125771,84;14320,62
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;15256,51;2386,96
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;27603,75;4318,76
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;1;6,39;1908429,87;298584,25
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;2;12,78;90282,68;7062,61
+Tripos cf. furca;Tripos sp.;Tripos;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;29;185,36;7897078,97;42604,86
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;4;25,57;155497,77;6082,12
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;3;19,17;350665,13;18287,82
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.08.18;8;2018;18;10;12,5;490,88;231;5;31,96;149828,58;4688,30
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;18.09.18;9;2018;18;10;12,5;490,88;221;11;67,26;7665,40;113,96
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;18.09.18;9;2018;18;10;12,5;490,88;221;12;73,38;62336,79;849,52
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;18.09.18;9;2018;18;10;12,5;490,88;221;23;140,64;7377508,96;52455,65
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;3;18,34;1201233,77;65481,21
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;1;6,11;692580,66;113261,10
+Polykrikos sp.;Polykrikos sp.;Polykrikos;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;2;12,23;1205940,35;98606,66
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;21;128,41;1254787,48;9771,50
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;1;6,11;9323,51;1524,72
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;1;6,11;25357,89;4146,90
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;33;201,79;6848372,44;33937,81
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;1;6,11;129438,88;21167,77
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;2;12,23;187520,28;15333,05
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;3;18,34;72322,80;3942,43
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;1;6,11;338745,49;55396,70
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;2;12,23;258016,49;21097,35
+cf. Cochlodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;2;12,23;1002686,65;81987,12
+Unidentified dinoflagellate sp. #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.18;9;2018;18;10;12,5;490,88;221;1;6,11;2809,54;459,46
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;17.10.18;10;2018;18;20;12,5;981,75;213;3;8,84;236036,65;26700,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;17.10.18;10;2018;18;20;12,5;981,75;213;3;8,84;1078,52;122,00
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;17.10.18;10;2018;18;20;12,5;981,75;213;1;2,95;6447,64;2188,03
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;17.10.18;10;2018;18;20;12,5;981,75;213;1;2,95;99989,22;33931,75
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;2;5,89;380778,79;64609,42
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;3;8,84;462914,93;52364,02
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;3;8,84;42388,04;4794,85
+Gymnodinium cf. catenatum;Gymnodinium sp.;Gymnodinium;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;4;11,79;131420,29;11149,50
+Noctiluca cf. scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;1;2,95;2949666,26;1000981,26
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;5;14,73;57981,71;3935,27
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;84;247,53;3013335,11;12173,66
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;1;2,95;659027,04;223643,51
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;29;85,46;3471781,76;40626,32
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;23;67,78;2069624,75;30536,33
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;6;17,68;110590,86;6254,91
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;1;2,95;33870,32;11494,03
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;8;23,57;170635,31;7238,22
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;17.10.18;10;2018;18;20;12,5;981,75;213;1;2,95;78153,85;26521,83
+Terpsinoe musica;Terpsinoe musica;Terpsinoe;BACILLARIOPHYTA;26.10.18;10;2018;18;10;12,5;490,88;220;1;6,09;4435665,48;728683,24
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;1;6,09;708564,34;116401,69
+Dinophysis sp.;Dinophysis sp.;Dinophysis;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;1;6,09;43197,33;7096,38
+Oblea rotunda;Oblea rotunda;Oblea;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;1;6,09;1,52;0,25
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;2;12,17;89421,93;7345,04
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;18;109,57;991367,11;9047,78
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;1;6,09;136654,01;22449,28
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;11;66,96;3118594,10;46574,28
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;49;298,27;5261741,80;17640,60
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;2;12,17;173196,02;14226,17
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;1;6,09;156924,12;25779,22
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;26.10.18;10;2018;18;10;12,5;490,88;220;7;42,61;259162,94;6082,12
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;86293,67;13559,82
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;400,93;63,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;15.11.18;11;2018;18;10;12,5;490,88;230;6;38,18;56637,67;1483,30
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;15.11.18;11;2018;18;10;12,5;490,88;230;2;12,73;134119,56;10537,49
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;9200,10;1445,66
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;5;31,82;1616321,81;50796,37
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;698867,17;109816,97
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;441596,13;69390,51
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;61094,15;9600,07
+Gyrodinium spirale;Gyrodinium spirale;Gyrodinium;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;2;12,73;190012,03;14928,84
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;35454,78;5571,21
+Polykrikos sp. #1;Polykrikos sp.;Polykrikos;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;417988,71;65680,94
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;5;31,82;344276,85;10819,64
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;46063,52;7238,22
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;97964,96;15393,79
+Torodinium sp. #1;Torodinium sp.;Torodinium;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;77100,74;12115,28
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;21;133,64;5772702,59;43195,12
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;13;82,73;2074720,83;25077,90
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;104620,34;16439,59
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;433178,38;68067,78
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;7;44,55;205259,91;4607,67
+cf. Scrippsiella sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;46159,49;7253,30
+Unidentified dinoflagellate sp. #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;58565,72;9202,76
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;17192,07;2701,49
+cf. Peridinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;15.11.18;11;2018;18;10;12,5;490,88;230;1;6,36;109108,47;17144,83
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;283199,16;42120,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;2471,45;367,58
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;178968,87;26617,91
+cf. Thalassiosira sp. #1;Unknown Diatom;Unknown;BACILLARIOPHYTA;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;2024057,61;301036,58
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;3;20,17;257910,35;12786,27
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;99756,32;14836,68
+Scrippsiella cf. trochoidea;Scrippsiella sp.;Scrippsiella;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;26748,43;3978,27
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;2;13,45;727171,72;54075,85
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;3;20,17;382719,42;18973,86
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;151532,43;22537,31
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;2;13,45;81787,79;6082,12
+cf. Cochlodinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;05.12.18;12;2018;18;10;12,5;490,88;243;1;6,72;320842,45;47718,66
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;14.12.18;12;2018;18;10;12,5;490,88;224;19;117,76;40068,30;340,25
+Chaetoceros sp. #2;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;14.12.18;12;2018;18;10;12,5;490,88;224;2;12,40;33276,44;2684,49
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;14.12.18;12;2018;18;10;12,5;490,88;224;3;18,59;3635469,12;195521,20
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;14.12.18;12;2018;18;10;12,5;490,88;224;1;6,20;251757,28;40619,70
+Dinophysis fortii;Dinophysis fortii;Dinophysis;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;1;18,59;318063,61;17105,96
+Dinophysis cf. acuminata;Dinophysis sp.;Dinophysis;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;3;18,59;318063,61;17105,96
+Gonyaulax cf. digitale;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;1;6,20;434845,95;70160,08
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;2;12,40;178943,80;14435,82
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;3;18,59;340406,93;18307,62
+Prorocentrum sp. #1;Prorocentrum sp.;Prorocentrum;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;1;6,20;132550,84;21386,37
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;3;18,59;1950246,21;104887,29
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;12;74,37;2811436,38;37800,86
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;8;49,58;975882,18;19681,67
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;3;18,59;154387,03;8303,18
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;1;6,20;44861,87;7238,22
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;3;18,59;198451,44;10673,03
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;1;6,20;61425,45;9910,67
+cf. Cochlodinium sp.;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.12.18;12;2018;18;10;12,5;490,88;224;2;12,40;1075133,55;86733,54
+Odontella sp. #1;Odontella sp.;Odontella;BACILLARIOPHYTA;30.01.19;1;2019;18;20;12,5;981,75;220;1;3,04;87260,96;28670,15
+Thalassiosira sp. #1;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;30.01.19;1;2019;18;20;12,5;981,75;220;1;3,04;310662,78;102070,26
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;30.01.19;1;2019;18;20;12,5;981,75;220;1;3,04;360583,33;118471,98
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;30.01.19;1;2019;18;20;12,5;981,75;220;1;3,04;41230,47;13546,54
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;30.01.19;1;2019;18;20;12,5;981,75;220;1;3,04;689411,93;226510,73
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;30.01.19;1;2019;18;20;12,5;981,75;220;3;9,13;55534,92;6082,12
+Chaetoceros decipiens ;Chaetoceros decipiens;Chaetoceros;BACILLARIOPHYTA;20.02.19;2;2019;18;10;12,5;490,88;196;3;16,27;41362,51;2542,33
+Ditylum brightwellii ;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;20.02.19;2;2019;18;10;12,5;490,88;196;2;10,85;1332979,98;122896,70
+Thalassiosira sp. #1;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;20.02.19;2;2019;18;10;12,5;490,88;196;1;5,42;1173982,22;216475,19
+Asterionellopsis glacialis ;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;14.03.19;3;2019;18;20;12,5;981,75;209;4;11,57;13466,21;1164,32
+Aulacoseira sp. #1;Aulacoseira sp.;Aulacoseira;BACILLARIOPHYTA;14.03.19;3;2019;18;20;12,5;981,75;209;43;124,33;413547,12;3326,16
+Chaetoceros decipiens ;Chaetoceros decipiens;Chaetoceros;BACILLARIOPHYTA;14.03.19;3;2019;18;20;12,5;981,75;209;6;17,35;36522,91;2105,23
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;14.03.19;3;2019;18;20;12,5;981,75;209;3;8,67;571873,99;65927,33
+Nitzschia sigma;Nitzschia sigma;Nitzschia;BACILLARIOPHYTA;14.03.19;3;2019;18;20;12,5;981,75;209;1;2,89;33411,99;11555,50
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;14.03.19;3;2019;18;20;12,5;981,75;209;2;5,78;20274,29;3505,92
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.03.19;3;2019;18;20;12,5;981,75;209;1;2,89;580775,90;200860,70
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.03.19;3;2019;18;20;12,5;981,75;209;2;5,78;57312,14;9910,67
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.03.19;3;2019;18;20;12,5;981,75;209;1;2,89;323108,52;111746,72
+Asterionellopsis glacialis ;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;3;17,18;15820,02;920,70
+Chaetoceros decipiens;Chaetoceros decipiens;Chaetoceros;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;3;17,18;69106,08;4021,86
+Dactyliosolen sp. #1;Dactyliosolen sp.;Dactyliosolen;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;60;343,65;3582968,30;10426,15
+Ditylum brightwellii ;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;7;40,09;6612148,56;164921,35
+Entomoneis sp. #1;Entomoneis sp.;Entomoneis;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;1;5,73;533329,22;93116,73
+Nitzschia cf. acicularis;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;1;5,73;4155,73;725,57
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;7;40,09;111969,39;2792,76
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;32;183,28;75387,56;411,32
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;1;5,73;7577,53;1323,00
+Thalassiosira sp. #1;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;4;22,91;211604,31;9236,27
+Ulnaria sp. #1;Ulnaria sp.;Ulnaria;BACILLARIOPHYTA;20.03.19;3;2019;18;10;12,5;490,88;207;1;5,73;61322,06;10706,54
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;20.03.19;3;2019;18;10;12,5;490,88;207;1;5,73;60818,24;10618,57
+Aulacoseira sp. ;Aulacoseira sp.;Aulacoseira;BACILLARIOPHYTA;28.03.19;3;2019;18;10;12,5;490,88;221;10;244,60;240246,75;982,22
+Chaetoceros decipiens;Chaetoceros decipiens;Chaetoceros;BACILLARIOPHYTA;28.03.19;3;2019;18;10;12,5;490,88;221;6;146,76;681089,75;4640,91
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;28.03.19;3;2019;18;10;12,5;490,88;221;5;122,30;19946177,36;163094,79
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;28.03.19;3;2019;18;10;12,5;490,88;221;1;24,46;2260,07;92,40
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;28.03.19;3;2019;18;10;12,5;490,88;221;5;122,30;87898,68;718,73
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;28.03.19;3;2019;18;10;12,5;490,88;221;186;4549,49;1095729,91;240,85
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;28.03.19;3;2019;18;10;12,5;490,88;221;4;97,84;1413845,04;14450,81
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;18.04.19;4;2019;18;10;12,5;490,88;198;8;86,65;14287146,17;164891,24
+Gyrosigma sp. #1;Gyrosigma sp.;Gyrosigma;BACILLARIOPHYTA;18.04.19;4;2019;18;10;12,5;490,88;198;1;10,83;57111,55;5273,10
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;18.04.19;4;2019;18;10;12,5;490,88;198;1;10,83;94227,39;8700,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;18.04.19;4;2019;18;10;12,5;490,88;198;32;346,58;16636,01;48,00
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;18.04.19;4;2019;18;10;12,5;490,88;198;216;2339,44;744554,25;318,26
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;1;5,48;473882,66;86498,44
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;2;10,96;245977,23;22449,28
+Karlodinium veneficum;Karlodinium veneficum;Karlodinium;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;1;5,48;2448,99;447,02
+Oblea rotunda;Oblea rotunda;Oblea;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;1;5,48;1,81;0,33
+Prorocentrum cordatum;Prorocentrum cordatum;Prorocentrum;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;1;5,48;16238,80;2964,09
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;6;32,87;199925,70;6082,12
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;1;5,48;141160,81;25766,27
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;18;98,61;773266,34;7841,41
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.04.19;4;2019;18;10;12,5;490,88;198;1;5,48;115659,50;21111,48
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;25.04.19;4;2019;18;10;12,5;490,88;210;4;23,24;2407986,99;103604,24
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;25.04.19;4;2019;18;10;12,5;490,88;210;8;46,48;73773,09;1587,05
+Diplopsalis sp. #1;Diplopsalis sp.;Diplopsalis;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;3;17,43;222602,54;12770,04
+Polykrikos sp. #1;Polykrikos sp.;Polykrikos;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;3;17,43;1687613,70;96813,33
+Prorocentrum cordatum;Prorocentrum cordatum;Prorocentrum;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;1;5,81;9005,47;1549,85
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;1;5,81;34074,77;5864,30
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;8;46,48;534292,35;11494,03
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;1;5,81;29206,94;5026,54
+cf. Protoperidinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;3;17,43;313093,87;17961,26
+cf. Karlodinium veneficum;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;1;5,81;5521,94;950,33
+cf. Heterocapsa sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;1;5,81;11128,97;1915,31
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.04.19;4;2019;18;10;12,5;490,88;210;1;5,81;497023,50;85538,24
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;14.05.19;5;2019;18;10;12,5;490,88;250;1;6,92;7287,47;1053,51
+Heterocapsa triquetra;Heterocapsa triquetra;Heterocapsa;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;2;13,83;75335,37;5445,42
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;1;6,92;12998067,73;1879063,52
+Phalacroma rotundatum;Phalacroma rotundatum;Phalacroma;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;1;6,92;219790,94;31774,04
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;1;6,92;9172,05;1325,96
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;1;6,92;357785,06;51723,14
+cf. Gymnodinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;1;6,92;34770,17;5026,54
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;4;27,67;552193,77;19956,95
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;15;103,76;434627,13;4188,79
+cf. Diplopsalis sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;1;6,92;663956,87;95984,81
+cf. Azadinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;14.05.19;5;2019;18;10;12,5;490,88;250;2;13,83;1886,28;136,35
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;04.06.19;6;2019;18;10;12,5;490,88;224;9;55,78;1205065,25;21603,43
+Coscinodiscus sp. #1;Coscinodiscus sp.;Coscinodiscus;BACILLARIOPHYTA;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;1665891,03;268782,66
+Detonula sp. #1;Detonula sp.;Detonula;BACILLARIOPHYTA;04.06.19;6;2019;18;10;12,5;490,88;224;3;18,59;130328,39;7009,26
+Gyrosigma sp. #1;Gyrosigma sp.;Gyrosigma;BACILLARIOPHYTA;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;68727,40;11088,80
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;04.06.19;6;2019;18;10;12,5;490,88;224;3;18,59;3235,31;174,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;04.06.19;6;2019;18;10;12,5;490,88;224;8;49,58;17887,17;360,75
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;04.06.19;6;2019;18;10;12,5;490,88;224;12;74,37;35186,19;473,09
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;3;18,59;2017226,23;108489,57
+Alexandrium sp. #1;Alexandrium sp.;Alexandrium;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;10;61,98;637879,64;10291,85
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;788742,26;127259,37
+Diplosalis sp. #1;Diplosalis sp.;Diplosalis ;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;3;18,59;103665,18;5575,28
+Heterocapsa triquetra;Heterocapsa triquetra;Heterocapsa;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;52338,84;8444,59
+Noctiluca scintillans;Noctiluca scintillans;Noctiluca;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;11587043,49;1869507,85
+Protoperidinium bipes;Protoperidinium bipes;Protoperidinium;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;31154,07;5026,54
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;2;12,40;2792651,10;225289,70
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;4;24,79;372446,86;15023,08
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;3;18,59;217284,08;11685,88
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;127212,46;20525,05
+cf. Protoperidinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;2;12,40;328759,85;26521,83
+cf. Gymnodinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;8;49,58;712389,80;14367,54
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;04.06.19;6;2019;18;10;12,5;490,88;224;1;6,20;313974,64;50658,14
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;25.06.19;6;2019;18;10;12,5;490,88;210;2;2,91;1852,05;637,48
+Guinardia sp. #1;Guinardia sp.;Guinardia;BACILLARIOPHYTA;25.06.19;6;2019;18;10;12,5;490,88;210;1;1,45;43342,36;29837,05
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;25.06.19;6;2019;18;10;12,5;490,88;210;7;10,17;7598,06;747,22
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;25.06.19;6;2019;18;10;12,5;490,88;210;3;4,36;7069,68;1622,27
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;3;4,36;365748,51;83927,58
+Amylax triacantha;Amylax triacantha;Amylax;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;1;1,45;71297,50;49081,48
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;5;7,26;131203,07;18064,14
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;3;4,36;43171,51;9906,48
+Diplosalis sp. #1;Diplosalis sp.;Diplosalis ;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;7;10,17;76668,23;7539,82
+Gonyaulax cf. spinifera;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;5;7,26;144087,59;19838,09
+Heterocapsa triquetra;Heterocapsa triquetra;Heterocapsa;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;1;1,45;6247,55;4300,84
+Lebouridinium glaucum;Lebouridinium glaucum;Lebouridinium;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;3;4,36;7730,71;1773,95
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;2;2,91;3241,97;1115,89
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;3;4,36;281257,39;64539,57
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;8;11,62;218078,51;18765,76
+Scrippsiella sp. #1;Scrippsiella sp.;Scrippsiella;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;1;1,45;6247,55;4300,84
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;1;1,45;37277,66;25662,09
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;2;2,91;35301,46;12150,83
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;1;1,45;4815,82;3315,23
+cf. Gymnodinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;11;15,98;353653,76;22132,42
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;2;2,91;44982,34;15483,01
+cf. Azadinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;25.06.19;6;2019;18;10;12,5;490,88;210;2;2,91;509,30;175,30
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;01.07.19;7;2019;18;10;12,5;490,88;214;2;74,02;13470,77;182,00
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;01.07.19;7;2019;18;10;12,5;490,88;214;3;111,02;14155,41;127,50
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;2;74,02;4369386,99;59033,62
+Amylax triacantha;Amylax triacantha;Amylax;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;1414568,98;38223,73
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;2;74,02;1785795,97;24127,41
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;383667,10;10367,25
+Gonyaulax spinifera;Gonyaulax spinifera;Gonyaulax;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;645258,31;17435,82
+Phalacroma rotundatum;Phalacroma rotundatum;Phalacroma;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;1167200,59;31539,47
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;488303,59;13194,68
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;2;74,02;1392711,58;18816,55
+Protoperidinium cf. steinii;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;2;74,02;3081234,38;41629,73
+Protoperidinium sp. #3;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;10492248,89;283515,93
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;2;74,02;5619366,65;75921,76
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;2172069,17;58692,49
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;2;74,02;1019701,95;13776,92
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;1;37,01;456292,57;12329,69
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;01.07.19;7;2019;18;10;12,5;490,88;214;10;370,08;6944762,10;18765,76
+Gyrosigma sp. #1;Gyrosigma sp.;Gyrosigma;BACILLARIOPHYTA;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;160365,14;30030,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;24.07.19;7;2019;18;10;12,5;490,88;193;2;10,68;11507,41;1077,44
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;5607,17;1050,00
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;2;10,68;200424,54;18765,76
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;550778,05;103138,78
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;3;16,02;162397,56;10136,86
+Dinophysis cf. acuminata;Dinophysis sp.;Dinophysis;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;38753,96;7257,07
+Gymnodinium cf. catenatum;Gymnodinium sp.;Gymnodinium;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;4;21,36;254445,21;11911,86
+Lebouridinium glaucum;Lebouridinium glaucum;Lebouridinium;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;12286,07;2300,69
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;2;10,68;158460,65;14836,68
+Prorocentrum triestinum;Prorocentrum triestinum;Prorocentrum;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;9227,13;1727,87
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;2;10,68;3196167,39;299257,39
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;94485,85;17693,43
+Scrippsiella sp.;Scrippsiella sp.;Scrippsiella;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;2;10,68;90191,04;8444,59
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;6;32,04;1470322,12;45888,79
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;11;58,74;924435,72;15737,27
+Unidentified dinoflagellate sp. #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;229547,61;42985,12
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;3;16,02;63591,73;3969,40
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;6;32,04;258359,75;8063,41
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;24.07.19;7;2019;18;10;12,5;490,88;193;1;5,34;13022,74;2438,64
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;01.08.19;8;2019;18;10;12,5;490,88;166;1;4,59;5930,57;1291,19
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;01.08.19;8;2019;18;10;12,5;490,88;166;1;4,59;828890,63;180464,51
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;01.08.19;8;2019;18;10;12,5;490,88;166;1;4,59;733,06;159,60
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;7;32,15;648130,47;20158,54
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;3;13,78;1429047,17;103709,82
+Gymnodinium cf. catenatum;Gymnodinium sp.;Gymnodinium;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;3;13,78;236414,91;17157,27
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;2;9,19;222216,16;24190,24
+Protoperidinium cf. steinii;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;1;4,59;119904,14;26105,30
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;3;13,78;582474,16;42271,73
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;2;9,19;71126,49;7742,76
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;1;4,59;6096,51;1327,32
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;1;4,59;39017,69;8494,86
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;1;4,59;83807,24;18246,35
+cf. Scrippsiella sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;01.08.19;8;2019;18;10;12,5;490,88;166;2;9,19;38200,02;4158,42
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;22.08.19;8;2019;18;10;12,5;490,88;209;1;5,78;855,87;148,00
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;6;34,70;4234824,25;122050,77
+Alexandrium sp. #1;Alexandrium sp.;Alexandrium;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;2;11,57;115108,74;9952,56
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;51;294,93;18111933,28;61411,69
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;3;17,35;313932,92;18095,56
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;4;23,13;712974,11;30822,66
+Oblea rotunda;Oblea rotunda;Oblea;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;1;5,78;66468,51;11494,03
+Phalacroma sp. #1;Phalacroma sp.;Phalacroma;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;1;5,78;68672,83;11875,21
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;84;485,76;8584103,21;17671,44
+Protoperidinium cf. steinii;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;1;5,78;87833,39;15188,54
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;1;5,78;133324,60;23055,08
+Scrippsiella sp. #1;Scrippsiella sp.;Scrippsiella;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;1;5,78;83085,64;14367,54
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;70;404,80;17676309,03;43666,66
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;5;28,91;442527,93;15304,78
+Unidentified dinoflagellate sp. #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;9;52,05;515809,22;9910,67
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;4;23,13;445101,65;19242,24
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;4;23,13;565079,25;24429,00
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;22.08.19;8;2019;18;10;12,5;490,88;209;24;138,79;1220850,23;8796,45
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;18.09.19;9;2019;18;10;12,5;490,88;213;9;53,04;11064,63;208,60
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;18.09.19;9;2019;18;10;12,5;490,88;213;12;70,72;8203,82;116,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;18.09.19;9;2019;18;10;12,5;490,88;213;4;23,57;37765,86;1602,00
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;18.09.19;9;2019;18;10;12,5;490,88;213;3;17,68;25905,69;1465,20
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;551898,58;93644,51
+Ceratium divaricatum;Ceratium divaricatum;Ceratium;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;555922,90;94327,35
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;66654,42;11309,72
+Gyrodinium sp. #1;Gyrodinium spp.;Gyrodinium;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;140406,30;23823,72
+Heterocapsa sp. #1;Heterocapsa sp.;Heterocapsa;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;2;11,79;20860,36;1769,76
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;284;1673,77;36120966,83;21580,63
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;261680,30;44401,14
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;124991,20;21208,14
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;503907,39;85501,51
+Unidentified dinoflagellate sp. #4;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;2;11,79;41103,56;3487,16
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;4;23,57;411035,57;17435,82
+cf. Diplopsalis sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;2;11,79;272172,20;23090,69
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;18.09.19;9;2019;18;10;12,5;490,88;213;1;5,89;42658,83;7238,22
+Nitzschia sp. #1;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;23.10.19;10;2019;18;10;12,5;490,88;189;6;31,38;11107,43;354,00
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;23.10.19;10;2019;18;10;12,5;490,88;189;3;15,69;7096,28;452,32
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;23.10.19;10;2019;18;10;12,5;490,88;189;1;5,23;658,92;126,00
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;23.10.19;10;2019;18;10;12,5;490,88;189;4;20,92;24379,87;1165,50
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;48;251,02;14131487,50;56297,29
+Pyrocystis lunula cyst;Cyst Pyrocystis lunula;Cyst;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;2;10,46;24643,36;2356,19
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;1;5,23;117762,40;22518,92
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;1;5,23;29046,31;5554,33
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;1;5,23;42090,86;8048,75
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;64;334,69;4030558,19;12042,76
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;1;5,23;562358,70;107536,10
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;99;517,72;21848912,61;42202,24
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;13;67,98;1822409,62;26806,71
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;1;5,23;84806,02;16216,89
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;3;15,69;277582,79;17693,43
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;3;15,69;95419,08;6082,12
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;23.10.19;10;2019;18;10;12,5;490,88;189;1;5,23;98400,93;18816,55
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;13.11.19;11;2019;18;10;12,5;490,88;194;2;10,74;3098,31;288,60
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;13.11.19;11;2019;18;10;12,5;490,88;194;3;16,10;32915,56;2044,00
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;6315,79;1176,60
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;4;21,47;1748411,08;81430,01
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;90028,78;16771,90
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;39797,94;7414,15
+Prorocentrum cordatum;Prorocentrum cordatum;Prorocentrum;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;5115,27;952,95
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;29;155,67;1695347,16;10890,85
+Protoperidinium cf. cerasus;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;153907,84;28672,24
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;34;182,51;9122254,90;49983,22
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;3;16,10;666387,84;41381,55
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;18212,62;3392,92
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;96607,81;17997,54
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;34626,45;6450,73
+cf. Alexandrium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;13.11.19;11;2019;18;10;12,5;490,88;194;1;5,37;32647,80;6082,12
+Dinophysis acuminata;Dinophysis acuminata;Dinophysis;DINOPHYCEAE;05.12.19;12;2019;18;10;12,5;490,88;210;1;5,81;175606,75;30222,10
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;05.12.19;12;2019;18;10;12,5;490,88;210;1;5,81;61334,58;10555,74
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;05.12.19;12;2019;18;10;12,5;490,88;210;3;17,43;17,43;1,00
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;05.12.19;12;2019;18;10;12,5;490,88;210;1;5,81;4785,68;823,62
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;555454,44;94692,43
+Entomoneis sp. #1;Entomoneis sp.;Entomoneis;BACILLARIOPHYTA;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;327063,52;55756,94
+Guinardia delicatula;Guinardia delicatula;Guinardia;BACILLARIOPHYTA;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;156731,76;26719,22
+Nitzschia cf. sigmoidea;Nitzschia spp.;Nitzschia;BACILLARIOPHYTA;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;61750,12;10527,00
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;71774,91;12236,00
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;492585,53;83974,70
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;177279,19;30222,10
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;2;11,73;220155,45;18765,76
+Torodinium sp. #1;Torodinium sp.;Torodinium;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;93652,06;15965,56
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;197273,04;33630,60
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;100511,28;17134,90
+Tripos lineatus;Tripos lineatus;Tripos;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;71685,66;12220,79
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;3;17,60;107030,93;6082,12
+Unidentified dinoflagellate sp. #2;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;2;11,73;103812,14;8848,81
+Unidentified dinoflagellate sp. #3;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;19.12.19;12;2019;18;10;12,5;490,88;212;1;5,87;465078,39;79285,35
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;13.01.20;1;2020;18;10;12,5;490,88;206;1;5,70;926,68;162,58
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;13.01.20;1;2020;18;10;12,5;490,88;206;4;22,80;1262025,20;55353,30
+Pleurosigma sp. #1;Pleurosigma sp.;Pleurosigma;BACILLARIOPHYTA;13.01.20;1;2020;18;10;12,5;490,88;206;1;5,70;202319,16;35495,43
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;13.01.20;1;2020;18;10;12,5;490,88;206;1;5,70;6795,04;1192,14
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;03.02.20;2;2020;18;10;12,5;490,88;219;1;6,06;4011,90;662,08
+Alexandrium sp. #1;Alexandrium sp.;Alexandrium;DINOPHYCEAE;03.02.20;2;2020;18;10;12,5;490,88;219;1;6,06;26582,42;4386,85
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;03.02.20;2;2020;18;10;12,5;490,88;219;1;6,06;117240,65;19348,03
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;03.02.20;2;2020;18;10;12,5;490,88;219;1;6,06;108232,63;17861,45
+cf. Protoperidinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;03.02.20;2;2020;18;10;12,5;490,88;219;3;18,18;260820,48;14347,59
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;03.03.20;3;2020;18;10;12,5;490,88;203;1;5,62;936,80;166,78
+Nitzschia incerta;Nitzschia incerta;Nitzschia;BACILLARIOPHYTA;03.03.20;3;2020;18;10;12,5;490,88;203;1;5,62;13337,29;2374,51
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;03.03.20;3;2020;18;10;12,5;490,88;203;2;11,23;30896,40;2750,33
+Rhizosolenia setigera;Rhizosolenia setigera;Rhizosolenia;BACILLARIOPHYTA;03.03.20;3;2020;18;10;12,5;490,88;203;3;16,85;786169,46;46655,36
+Skeletonema costatum;Skeletonema costatum;Skeletonema;BACILLARIOPHYTA;03.03.20;3;2020;18;10;12,5;490,88;203;18;101,10;321773,70;3182,62
+cf. Pseudo-nitzschia sp. #1;Unknown Diatom;Unknown;BACILLARIOPHYTA;03.03.20;3;2020;18;10;12,5;490,88;203;6;33,70;4844,37;143,75
+Alexandrium sp. #1;Alexandrium sp.;Alexandrium;DINOPHYCEAE;03.03.20;3;2020;18;10;12,5;490,88;203;1;5,62;24640,33;4386,85
+Tripos sp. ;Tripos sp.;Tripos;DINOPHYCEAE;03.03.20;3;2020;18;10;12,5;490,88;203;1;5,62;170593,11;30371,63
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;03.03.20;3;2020;18;10;12,5;490,88;203;1;5,62;85806,32;15276,57
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;13.07.20;7;2020;18;10;12,5;490,88;209;7;10,12;10678,95;1055,23
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;13.07.20;7;2020;18;10;12,5;490,88;209;1;1,45;1840,47;1273,05
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;13.07.20;7;2020;18;10;12,5;490,88;209;3;4,34;1760,49;405,91
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;45;65,06;9643287,84;148227,57
+Heterocapsa sp. #1;Heterocapsa sp.;Heterocapsa;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;1;1,45;613,49;424,35
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;1;1,45;10956,76;7578,77
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;6;8,67;180714,07;20833,25
+Pyrophacus horologium;Pyrophacus horologium;Pyrophacus;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;1;1,45;113368,23;78416,56
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;5;7,23;90202,11;12478,52
+Tripos cf. lineatus;Tripos sp.;Tripos;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;2;2,89;247786,16;85696,57
+cf. Protoperidinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;3;4,34;132414,22;30530,21
+cf. Gonyaulax sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;13.07.20;7;2020;18;10;12,5;490,88;209;4;5,78;88342,47;15276,57
+Gyrosigma sp. #1;Gyrosigma sp.;Gyrosigma;BACILLARIOPHYTA;11.08.20;8;2020;18;10;12,5;490,88;246;1;1,70;63513,41;37324,42
+cf. Chaetoceros sp. #1;Unknown Diatom;Unknown;BACILLARIOPHYTA;11.08.20;8;2020;18;10;12,5;490,88;246;2;3,40;1965,06;577,40
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;11.08.20;8;2020;18;10;12,5;490,88;246;6;10,21;702932,66;68847,79
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;11.08.20;8;2020;18;10;12,5;490,88;246;4;6,81;59719,42;8773,71
+Tripos fusus;Tripos fusus;Tripos;DINOPHYCEAE;11.08.20;8;2020;18;10;12,5;490,88;246;1;1,70;29140,91;17125,00
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;10.09.20;9;2020;18;10;12,5;490,88;204;3;4,23;818,07;193,24
+Coscinodiscus sp. #1;Coscinodiscus sp.;Coscinodiscus;BACILLARIOPHYTA;10.09.20;9;2020;18;10;12,5;490,88;204;4;5,64;2216598,38;392698,75
+Rhizosolenia sp. #1;Rhizosolenia sp.;Rhizosolenia;BACILLARIOPHYTA;10.09.20;9;2020;18;10;12,5;490,88;204;3;4,23;245213,75;57923,67
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;10.09.20;9;2020;18;10;12,5;490,88;204;20;28,22;27200,29;963,78
+Thalassiosira sp. #1;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;10.09.20;9;2020;18;10;12,5;490,88;204;1;1,41;588067,98;416735,06
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;10.09.20;9;2020;18;10;12,5;490,88;204;14;19,76;2401020,88;121534,73
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;10.09.20;9;2020;18;10;12,5;490,88;204;1;1,41;54342,24;38509,69
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;10.09.20;9;2020;18;10;12,5;490,88;204;1;1,41;2559,83;1814,02
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;10.09.20;9;2020;18;10;12,5;490,88;204;24;33,87;414977,11;12253,08
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;10.09.20;9;2020;18;10;12,5;490,88;204;5;7,06;587100,28;83209,86
+Protoperidinium sp. #2;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;10.09.20;9;2020;18;10;12,5;490,88;204;2;2,82;993731,38;352104,45
+Pyrophacus horologium;Pyrophacus horologium;Pyrophacus;DINOPHYCEAE;10.09.20;9;2020;18;10;12,5;490,88;204;2;2,82;124099,86;43971,75
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;09.10.20;10;2020;18;10;12,5;490,88;239;3;4,96;8182,87;1649,87
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;24;39,68;3329805,88;83921,35
+Dinophysis sp. #1;Dinophysis sp.;Dinophysis;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;2;3,31;32604,40;9860,77
+Gonyaulax sp. #1;Gonyaulax sp.;Gonyaulax;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;2;3,31;8932,40;2701,49
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;1;1,65;11874,21;7182,40
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;114;188,47;3958846,80;21005,29
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;2;3,31;635809,50;192292,25
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;4;6,61;243083,11;36758,65
+cf. Scrippsiella sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;1;1,65;8885,96;5374,88
+cf. Lebouridinium sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;09.10.20;10;2020;18;10;12,5;490,88;239;2;3,31;19790,35;5985,33
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;19.11.20;11;2020;18;10;12,5;490,88;236;5;8,16;1769,34;216,77
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;19.11.20;11;2020;18;10;12,5;490,88;236;11;17,96;38004,20;2116,36
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;19.11.20;11;2020;18;10;12,5;490,88;236;1;1,63;124147,18;76047,95
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;19.11.20;11;2020;18;10;12,5;490,88;236;3;4,90;1743,20;355,94
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;19.11.20;11;2020;18;10;12,5;490,88;236;5;8,16;4735,51;580,16
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;19.11.20;11;2020;18;10;12,5;490,88;236;5;8,16;12532,20;1535,35
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;19.11.20;11;2020;18;10;12,5;490,88;236;24;39,18;3802694,52;97057,89
+Alexandrium sp. #1;Alexandrium sp.;Alexandrium;DINOPHYCEAE;19.11.20;11;2020;18;10;12,5;490,88;236;2;3,26;20304,89;6219,01
+Phalacroma oxytoxoides;Phalacroma oxytoxoides;Phalacroma;DINOPHYCEAE;19.11.20;11;2020;18;10;12,5;490,88;236;1;1,63;16637,05;10191,24
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;19.11.20;11;2020;18;10;12,5;490,88;236;9;14,69;284268,42;19348,03
+Asterionellopsis sp. #1;Asterionellopsis sp.;Asterionellopsis;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;1;1,66;144,44;87,00
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;12;19,92;27185,43;1364,60
+Ditylum brightwellii;Ditylum brightwellii;Ditylum;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;10;16,60;1296014,03;78065,86
+Eucampia zodiacus;Eucampia zodiacus;Eucampia;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;9;14,94;104873,12;7018,97
+Guinardia delicatula;Guinardia delicatula;Guinardia;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;2;3,32;29645,51;8928,54
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;147;244,04;361988,61;1483,30
+Skeletonema cf. costatum;Skeletonema sp.;Skeletonema;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;19;31,54;20077,83;636,52
+Thalassionema sp. #1;Thalassionema sp.;Thalassionema;BACILLARIOPHYTA;17.12.20;12;2020;18;10;12,5;490,88;240;12;19,92;22718,43;1140,38
+Akashiwo sanguinea;Akashiwo sanguinea;Akashiwo;DINOPHYCEAE;17.12.20;12;2020;18;10;12,5;490,88;240;1;1,66;192955,48;116227,40
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;17.12.20;12;2020;18;10;12,5;490,88;240;5;8,30;160603,63;19348,03
+Protoperidinium sp. #1;Protoperidinium sp.;Protoperidinium;DINOPHYCEAE;17.12.20;12;2020;18;10;12,5;490,88;240;1;1,66;293841,21;176996,28
+Tripos furca;Tripos furca;Tripos;DINOPHYCEAE;17.12.20;12;2020;18;10;12,5;490,88;240;2;3,32;196613,63;59215,45
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;29.01.21;1;2021;18;10;12,5;490,88;172;3;14,28;3349,19;234,58
+Nitzschia reversa;Nitzschia incerta;Nitzschia;BACILLARIOPHYTA;29.01.21;1;2021;18;10;12,5;490,88;172;1;4,76;13884,11;2917,38
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;29.01.21;1;2021;18;10;12,5;490,88;172;8;38,07;87643,47;2301,99
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;29.01.21;1;2021;18;10;12,5;490,88;172;1;4,76;99147,75;20833,25
+cf. Peridiniopsis sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;29.01.21;1;2021;18;10;12,5;490,88;172;1;4,76;56546,69;11881,78
+cf. Chaetoceros sp. #1;Unknown Diatom;Unknown;BACILLARIOPHYTA;19.02.21;2;2021;18;10;12,5;490,88;222;1;6,14;45901,63;7472,70
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;19.02.21;2;2021;18;10;12,5;490,88;222;1;6,14;102819,64;16738,86
+Unidentified dinoflagellate sp. #1;Unknown Dinoflagellate;Unknown;DINOPHYCEAE;19.02.21;2;2021;18;10;12,5;490,88;222;1;6,14;68423,14;11139,17
+Asterionellopsis glacialis;Asterionellopsis glacialis;Asterionellopsis;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;8;36,97;48828,54;1320,90
+Cylindrotheca closterium;Ceratoneis closterium;Ceratoneis;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;3;13,86;6941,25;500,73
+Chaetoceros decipiens;Chaetoceros decipiens;Chaetoceros;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;19;87,79;3017698,36;34372,29
+Chaetoceros sp. #1;Chaetoceros sp.;Chaetoceros;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;33;152,49;267572,12;1754,74
+Eucampia zodiacus;Eucampia zodiacus;Eucampia;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;8;36,97;254376,34;6881,34
+Pseudo-nitzschia sp. #2;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;7;32,35;8075,86;249,68
+Pseudo-nitzschia sp. #1;Pseudo-nitzschia sp.;Pseudo-nitzschia;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;20;92,42;231745,37;2507,65
+Rhizosolenia sp. #1;Rhizosolenia sp.;Rhizosolenia;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;1;4,62;86691,30;18761,25
+Skeletonema costatum;Skeletonema costatum;Skeletonema;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;36;166,35;201172,16;1209,35
+Thalassiosira sp. #1;Thalassiosira spp.;Thalassiosira;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;5;23,10;9420884,69;407763,07
+cf. Aulacoseira sp. #1 ;Unknown Diatom;Unknown;BACILLARIOPHYTA;25.02.21;2;2021;18;10;12,5;490,88;167;3;13,86;26471,04;1909,57
+Prorocentrum micans;Prorocentrum micans;Prorocentrum;DINOPHYCEAE;25.02.21;2;2021;18;10;12,5;490,88;167;1;4,62;67052,01;14511,02

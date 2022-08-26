@@ -12,7 +12,7 @@ library(patchwork)
 library(wesanderson)
 library(gridExtra)
 library(vegan)
-
+library(beepr)
 theme_set(theme_light())
   
 #Preamble of analyses
@@ -32,7 +32,7 @@ Phyto_Apr1992_Mar2014 <- read_csv("Phytoplankton_San_Francisco_Bay_1992_2014.csv
 Phyto_Jan2014_Feb2021 <- read_delim("~/OneDrive/University of Strathclyde/SF_Dataset/Jan2014_Feb2021.csv", 
                                     delim = ";", escape_double = FALSE, trim_ws = TRUE, )
 #nutrient data
-TotNutrients_2014_2021 <- read_excel("Chapter_2/TotNutrients_2014_2021.xlsx") #Total nutrients not just dissolved
+#TotNutrients_2014_2021 <- read_excel("Chapter_2/TotNutrients_2014_2021.xlsx") #Total nutrients not just dissolved
 
 #Fixing the dates for environmental and nutrient data ----------
 environment_1969_2015$Date <- as.Date(as.character(environment_1969_2015$Date), '%m/%d/%y')
@@ -72,9 +72,9 @@ environment_2021$Month<- strftime(environment_2021$Date, format = '%m')
 environment_2021$DOY  <- strftime(environment_2021$Date, format = '%j')
 
 
-TotNutrients_2014_2021$Year <- strftime(TotNutrients_2014_2021$Date, format = '%Y')
-TotNutrients_2014_2021$Month<- strftime(TotNutrients_2014_2021$Date, format = '%m')
-TotNutrients_2014_2021$DOY  <- strftime(TotNutrients_2014_2021$Date, format = '%j')
+# TotNutrients_2014_2021$Year <- strftime(TotNutrients_2014_2021$Date, format = '%Y')
+# TotNutrients_2014_2021$Month<- strftime(TotNutrients_2014_2021$Date, format = '%m')
+# TotNutrients_2014_2021$DOY  <- strftime(TotNutrients_2014_2021$Date, format = '%j')
 
 
 
@@ -176,7 +176,7 @@ Phyto_Jan2014_Feb2021 <- Phyto_Jan2014_Feb2021 %>%
 #joining phyto and environmental data
 SFBay_1992_2014 <- full_join(Abiotic_1992_2014, Phyto_Apr1992_Mar2014)
 SFBay_2014_2021 <- full_join(Abiotic_2014_2021, Phyto_Jan2014_Feb2021)
-SFBay_2014_2021_TotNut <- full_join(SFBay_2014_2021, TotNutrients_2014_2021)
+#SFBay_2014_2021_TotNut <- full_join(SFBay_2014_2021, TotNutrients_2014_2021)
 
 
 #Station numbers as factors
@@ -186,9 +186,9 @@ SFBay_1992_2014 <- SFBay_1992_2014%>%
 SFBay_2014_2021 <- SFBay_2014_2021%>%
   mutate(Station_Number = as_factor(Station_Number), Dataset ="SFB2")
 
-SFBay_2014_2021_TotNut <- SFBay_2014_2021_TotNut%>%
-  mutate(Station_Number = as_factor(Station_Number))%>%
-  select(-Nitrite, -Nitrate_._Nitrite, -Ammonium, -Phosphate)
+#SFBay_2014_2021_TotNut <- SFBay_2014_2021_TotNut%>%
+ # mutate(Station_Number = as_factor(Station_Number))%>%
+  #select(-Nitrite, -Nitrate_._Nitrite, -Ammonium, -Phosphate)
 
 #corrects character variables into numeric without (!) generating NAs
 SFBay_1992_2014$Density <- as.numeric(sub(",", ".", SFBay_1992_2014$Density, fixed = TRUE))
@@ -197,8 +197,8 @@ SFBay_1992_2014$Cell_Vol <- as.numeric(sub(",", ".", SFBay_1992_2014$Cell_Vol, f
 SFBay_2014_2021$Density <- as.numeric(sub(",", ".", SFBay_2014_2021$Density, fixed = TRUE))
 SFBay_2014_2021$Cell_Vol <- as.numeric(sub(",", ".", SFBay_2014_2021$Cell_Vol, fixed = TRUE))
 
-SFBay_2014_2021_TotNut$Density <- as.numeric(sub(",", ".", SFBay_2014_2021_TotNut$Density, fixed = TRUE))
-SFBay_2014_2021_TotNut$Cell_Vol <- as.numeric(sub(",", ".", SFBay_2014_2021_TotNut$Cell_Vol, fixed = TRUE))
+#SFBay_2014_2021_TotNut$Density <- as.numeric(sub(",", ".", SFBay_2014_2021_TotNut$Density, fixed = TRUE))
+#SFBay_2014_2021_TotNut$Cell_Vol <- as.numeric(sub(",", ".", SFBay_2014_2021_TotNut$Cell_Vol, fixed = TRUE))
 
 #editing the file to rename stations
 lat_long <- read_csv("~/Library/CloudStorage/OneDrive-Personal/University of Strathclyde/SFBay_TableofStationLocations.csv", 
@@ -335,8 +335,8 @@ SFBay_2014_2021<- SFBay_2014_2021%>%
   ))
 
 #joining lat and long based on locations
-SFBay_1992_2014 <- full_join(SFBay_1992_2014, lat_long)
-SFBay_2014_2021 <- full_join(SFBay_2014_2021, lat_long)
+#SFBay_1992_2014 <- full_join(SFBay_1992_2014, lat_long)
+#SFBay_2014_2021 <- full_join(SFBay_2014_2021, lat_long)
 
 #save base datasets in csv before analyses
 write_csv2(SFBay_1992_2014, file = "SFBay_1992_2014.csv")
@@ -347,6 +347,10 @@ save(SFBay_2014_2021, file = "SFBay_2014_2021.RData")
 
 SFB_All <- full_join(SFBay_1992_2014, SFBay_2014_2021)
 save(SFB_All, file = "SFB_All.RData")
+
+#to protect original data sets
+SFBay1 <- SFBay_1992_2014
+SFBay2 <- SFBay_2014_2021
 #------------------ANALYSES--------
 #Biovolume to C Biomass in pg C cell -1
 a <- 0.216                             #scaling constant for all spp according to Menden-Deuer and Lessard (2000)
@@ -356,20 +360,18 @@ b_diatoms <- 0.881                     #same as a_diatom
 
 #Get cell carbon as estimated by cell volume, log10C = alog10V + logb
 Cell_Carbon_All <- function(V) {
-  a*log10(V)^b
+  a+log10(V^b)
   #excluding diatoms
 }
 
 
 Cell_Carbon_Diatom <- function (V){
-  a_diatoms*log10(V)^b_diatoms
+  a_diatoms+log10(V^b_diatoms)
   #just diatoms
 }
 
-#to protect original data sets
-SFBay1 <- SFBay_1992_2014
-SFBay2 <- SFBay_2014_2021
-SFBay2TotN <- SFBay_2014_2021_TotNut
+
+#SFBay2TotN <- SFBay_2014_2021_TotNut
 
 #Calculation cell taxa specific carbon content as in a Cell (pg C cell-1)
 SFBay1$Cell_Carbon <- if_else(SFBay1$Phyl_Class == "BACILLARIOPHYTA",
@@ -380,22 +382,22 @@ SFBay2$Cell_Carbon <- if_else(SFBay2$Phyl_Class == "BACILLARIOPHYTA",
                               Cell_Carbon_Diatom(SFBay2$Cell_Vol),
                               Cell_Carbon_All(SFBay2$Cell_Vol))
 
-SFBay2TotN$Cell_Carbon <- if_else(SFBay2TotN$Phyl_Class == "BACILLARIOPHYTA",
-                              Cell_Carbon_Diatom(SFBay2TotN$Cell_Vol),
-                              Cell_Carbon_All(SFBay2TotN$Cell_Vol))
+#SFBay2TotN$Cell_Carbon <- if_else(SFBay2TotN$Phyl_Class == "BACILLARIOPHYTA",
+#                              Cell_Carbon_Diatom(SFBay2TotN$Cell_Vol),
+#                              Cell_Carbon_All(SFBay2TotN$Cell_Vol))
 
 #ESD calculation 
 Vol_ESD <- function(V)(6*V/pi)^(1/3)    #cell volume to ESD in µm
 
 SFBay1$ESD <- Vol_ESD(SFBay1$Cell_Vol) 
 SFBay2$ESD <- Vol_ESD(SFBay2$Cell_Vol) 
-SFBay2TotN$ESD <- Vol_ESD(SFBay2TotN$Cell_Vol) 
+#SFBay2TotN$ESD <- Vol_ESD(SFBay2TotN$Cell_Vol) 
 
 
 #log transform ESD
 SFBay1 <- SFBay1%>% mutate(ESD = log(ESD))
 SFBay2 <- SFBay2%>% mutate(ESD = log(ESD)) 
-SFBay2TotN <- SFBay2TotN%>% mutate(ESD = log(ESD)) 
+#SFBay2TotN <- SFBay2TotN%>% mutate(ESD = log(ESD)) 
 
 
 #plot hist of ESD SFBay1 and SFBay2
@@ -418,13 +420,13 @@ SFBay2<- SFBay2 %>%
           Rel_Abu = (Density/sum(Density)), 
           Rel_Bio = Carbon_mL/sum(Carbon_mL))%>%
   filter(Rel_Abu > 0)
-
-SFBay2TotN<- SFBay2TotN %>%
-  group_by(Station_Number, Year, Month, DOY, Depth)%>%
-  mutate (Carbon_mL = (Cell_Carbon*(Density/sum(Density)))/1000000,
-          Rel_Abu = (Density/sum(Density)), 
-          Rel_Bio = Carbon_mL/sum(Carbon_mL))%>%
-  filter(Rel_Abu > 0)
+# 
+# SFBay2TotN<- SFBay2TotN %>%
+#   group_by(Station_Number, Year, Month, DOY, Depth)%>%
+#   mutate (Carbon_mL = (Cell_Carbon*(Density/sum(Density)))/1000000,
+#           Rel_Abu = (Density/sum(Density)), 
+#           Rel_Bio = Carbon_mL/sum(Carbon_mL))%>%
+#   filter(Rel_Abu > 0)
 #Carbon:Chl-----------
 SFBay1 <- SFBay1%>% add_column(C_Chl = SFBay1$Cell_Carbon/SFBay1$Calculated_Chlorophyll)
 SFBay2 <- SFBay2%>% add_column(C_Chl = SFBay2$Cell_Carbon/SFBay2$Calculated_Chlorophyll)
@@ -594,6 +596,7 @@ SFBay_Env <- SFBay_Env%>%
 save(SFBay_Env, file = "SFBay_Env.Rdata")
 save(SFBay1_Env, file = "SFBay1_Env.Rdata")
 save(SFBay2_Env, file = "SFBay2_Env.Rdata")
+
 #----Plots Environmental factors vc Richness --------
 #Plot Richness against Chl 
 library(rtist)
@@ -695,8 +698,8 @@ BioSizeVarb<- SFBay_Env%>%
                     ggplot(aes(SizeVar_bio,Biomass))+
                     geom_point(aes(colour=Dataset))+
                     scale_color_manual(values = rtist_palette("hokusai", 4))+
-                    geom_smooth(aes(colour=Dataset),method = "glm", formula = y ~ poly(x,2))+
-                    geom_smooth(color = "black", method = "glm", formula = y ~ poly(x,2))+
+                    geom_smooth(aes(colour=Dataset),method = "lm", formula = y ~ poly(x,2))+
+                    geom_smooth(color = "black", method = "lm", formula = y ~ poly(x,2))+
                     scale_y_log10()+
                     ylab(expression(paste("Size Variance (ln " , mu, "m"^"3",")"^"2",)))+
                     xlab(expression(paste("log Biomass (", mu,"g/mL"^"-1", ")")))+
@@ -710,8 +713,8 @@ BioCWMSizePlot<- SFBay_Env%>%
                       ggplot(aes(Biomass, CWM_Sizeb))+
                       geom_point(aes(colour=Dataset))+
                       scale_color_manual(values = rtist_palette("hokusai", 4))+
-                      geom_smooth(aes(colour=Dataset),method = lm, formula = y ~ poly(x,2))+
-                      geom_smooth(color = "black", method = lm, formula = y ~ poly(x,2))+
+                      geom_smooth(aes(colour=Dataset),method = glm, formula = y ~ poly(x,2))+
+                      geom_smooth(color = "black", method = glm, formula = y ~ poly(x,2))+
                       scale_x_log10()+scale_y_log10()+
                       ylab(expression(paste("CWM Size (ln " , mu, "m"^"3",")",)))+
                       xlab(expression(paste("log Biomass (", mu,"g/mL"^"-1", ")")))+
